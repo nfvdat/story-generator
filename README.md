@@ -1,6 +1,6 @@
 ## Overview
 
-An interactive story generator built using ChatGPT on the backend. How to use:
+An interactive story generator built as a Flask app with ChatGPT on the backend. How to use:
 
 - Decide a cast of characters first, with short paragraphs describing who they are and their personalities. (This is hardcoded currently, so you'll have to change this in the code)
 - The story will progress one response at a time according to your prompt and your chosen character perspective.
